@@ -54,6 +54,12 @@ export default function Contact() {
             >
               +91 97749 95083
             </a>
+            <a 
+              href="tel:+919402484724" 
+              className="text-charcoal-900 hover:text-charcoal-700 transition-colors duration-300 text-xl font-light block mb-2"
+            >
+              +91 94024 84724
+            </a>
             <p className="text-charcoal-600 text-sm font-light">Call us anytime</p>
           </div>
 
